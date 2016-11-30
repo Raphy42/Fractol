@@ -1,0 +1,11 @@
+#IGNORE THE FOLLOWINGS
+# ------- Binaries
+*.a
+*.out
+*.o
+# ------- Vimcaches
+.*.swp
+.*.swo
+# ------- Everything thats not a libft function
+./tests
+./moulitest
